@@ -1,8 +1,8 @@
 {
-  "name": "NightFox",
+  "name": "NightFoxs",
   "manifest_version": 2,
   "version": "1.0",
-  "author": "https://nightfox.io",
+  "author": "https://nightfoxs.io",
   "description": "A bitcoin browser extension, simplicity in use.",
   "commands": {
     "_execute_browser_action": {
@@ -35,7 +35,7 @@
       "19": "icons/icon-19.png",
       "38": "icons/icon-38.png"
     },
-    "default_title": "NightFox",
+    "default_title": "NightFoxs",
     "default_popup": "popup.html"
   },
   "content_scripts": [

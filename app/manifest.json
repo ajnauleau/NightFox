@@ -19,7 +19,7 @@
   },
   "applications": {
     "gecko": {
-      "id": "webextension@nightfox.io"
+      "id": "webextension@nightfoxs.io"
     }
   },
   "default_locale": "en",
@@ -64,5 +64,13 @@
   "web_accessible_resources": [
     "inpage.js",
     "phishing.html"
-  ]
+  ],
+  "externally_connectable": {
+    "matches": [
+      "https://nightfoxs.io/*"
+    ],
+    "ids": [
+      "*"
+    ]
+  }
 }
